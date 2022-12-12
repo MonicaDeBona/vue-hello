@@ -10,7 +10,8 @@ createApp({
     data() {
         return {
             message: 'Hello Vue!',
-            imageSrc: 'img/vue.svg'
+            imageSrc: 'img/vue.svg',
+            cssClass: 'logo'
         }
     }
 }).mount('#app');
