@@ -10,7 +10,7 @@ createApp({
     data() {
         return {
             message: 'Hello Vue!',
-            imageSrc: 'img/vue.svg',
+            imageSrc: 'img/vue.png',
             styleLogo: 'logo'
         }
     }
