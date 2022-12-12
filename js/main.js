@@ -11,7 +11,7 @@ createApp({
         return {
             message: 'Hello Vue!',
             imageSrc: 'img/vue.svg',
-            cssClass: 'logo'
+            styleLogo: 'logo'
         }
     }
 }).mount('#app');
